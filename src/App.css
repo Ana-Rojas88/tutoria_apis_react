@@ -1,0 +1,30 @@
+body{
+  padding: 4rem;
+}
+
+.container_formulario{
+text-align: center;
+font-size: 2rem;
+}
+
+.container_formulario form{
+  background-color: #005bf4;
+  padding: 2rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+}
+
+.container_formulario form input{
+  padding: 1rem;
+  border-radius: 1rem ;
+  border: none;
+  
+}
+
+.container_drop{
+  background-color: #87a1ab;
+  padding: 2rem;
+}
